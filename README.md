@@ -40,6 +40,10 @@ Run the program:
 python passman.py
 
 ---
+image /demo 
+<img width="907" height="728" alt="Screenshot 2026-03-01 032804" src="https://github.com/user-attachments/assets/73c714e2-b825-4c3c-8dc8-e1c7c86bc371" />
+and with password protection(with reauthentication)
+<img width="966" height="333" alt="Screenshot 2026-03-01 033911" src="https://github.com/user-attachments/assets/a0884b8d-2fc3-4b6e-a27b-4ef053e2a90a" />
 
 ## 📁 Files
 
