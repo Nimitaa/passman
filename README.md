@@ -32,10 +32,12 @@ Clone the repository:
 git clone https://github.com/Nimitaa/passman.git
 cd passman
 Create virtual environment:
+sudo apt update
+sudo apt install python3-venv 
 python3 -m venv venv
 source venv/bin/activate
 Install dependencies:
-pip install -r requirements.txt
+pip install -r requirements.txt (may take a lil time)
 Run the program:
 python passman.py
 
