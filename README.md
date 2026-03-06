@@ -59,4 +59,7 @@ and with password protection(with reauthentication)
 
 This project is for educational purposes.
 
+git remote add origin https://github.com/Nimitaa/Syntexchub-internship.git
+git branch -M main
+git push -u origin main
 
